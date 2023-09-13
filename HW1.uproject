@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F5FFBE0A-4A60-EEDB-560A-CE9A71AB5B46}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HW1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
